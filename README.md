@@ -4,7 +4,9 @@ This repository contains all candidate breast-cancer-associated G-quadruplex (G4
 
 ## Files
 `BC_G4_merge.bed`: the coordinates of the breast-cancer-associated G-quadruplex (BC-G4) sequences in the human genome.
+
 The BC-G4 data were derived from the NCBI Gene Expression Omnibus (GEO; https://www.ncbi.nlm.nih.gov/geo/) under the accession number GSE152216 and GSE181373.
+
 This file consists of 3 columns, each representing the chromosome number, start and end coordinates of the G4 sequence.
 
 ## Usage
